@@ -1,0 +1,9 @@
+real(kind=selected_real_kind(4,300)) :: x=1,y=1,z=1,v=0
+integer :: a=0,b=0
+write(6,*) 'N gesamt'
+read(5,*) a
+do i=1,a
+x=x*i
+end do
+write(6,*) x
+end
