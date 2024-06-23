@@ -1,6 +1,6 @@
 # Folium IIr
 
-**I**N principio creauit deus celum et terra[m]. Terra autem erat inanis [et] vacua. [et] tenebrae era[n]t sup[er] faciem abissi. et sp[irit]us d[omi]ni ferebat[ur] sup[er] aq[ui]s.[^1]
+***I**N principio creauit deus celum et terra[m]. Terra autem erat inanis [et] vacua. [et] tenebrae era[n]t sup[er] faciem abissi. et sp[irit]us d[omi]ni ferebat[ur] sup[er] aq[ui]s.*[^1]
 
 
 **Moyses**[^2] diuinus [propheta] at[que] historic[us]. q[ui] fere troianu[m] bellu[m][^3] septinge[n]tis a[n]nis antecessit edocet. quo[m] de[us] machinator constitutor[que] re[rum]. cu[m] hoc op[us] adoriretur: fecit p[ri]mu[m] o[mn]i[u]m celu[m]: et i[n] s[u]blime suspe[n]dit: q[uo]d e[ss]et sedes ipsi[us] dei [con]ditoris: deinde terra[m] fundavit: ac celo s[u]bdidit. 
@@ -41,7 +41,7 @@ Qua[m] p[ro] sui [con]fusio[n]e abyssum vocat: qua[m] [et] greci chaos dicu[n]t.
 
 Abyssum vocat terra[m] .i[d est]. materia[m] trino dime[n]su i[n] altissimas profunditates extensam: de hoc etia[m] **Ouidi[us]**[^14] meminit. 
 
-Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus ad huc mu[n]do p[re]bebat lumina titan.[^15] 
+*Ante mare [et] terras [et] q[uo]d tegit o[mn]ia celu[m]. Un[us] erat toto nature vult[us] in orbe. Que[m] dixere chaos rudis indigestaq[ue] moles. Nec q[ui]cq[uam] nisi po[n]dus iners: [con]gestaq[ue] eode[m]. No[n] bene iu[n]ctaru[m] discordia femina reru[m]. Nullus ad huc mu[n]do p[re]bebat lumina titan*.[^15] 
 
 Et sp[irit]us d[omi]ni: organu[m] diuine artis ferebat[ur] sup[er] aquas: ut volu[n]tas architecti cu[m] cuncta ad faciendu[m] disponit. 
 
@@ -57,8 +57,8 @@ In secundo [et] tercio dispositione[m].
 
 In reliquis ornatum Moyses per opera sex die[rum] ostendit.
 
-[^1]: Genesis 1:1-2. (tr. Deus created the priciple of heaven implying earth. The 'idea' was implicit within the 'waters' but first earth was still a vacuum without content).  
-[^2]: wrote the first five books of the Bible, Old Testament, Law (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), c.f. Edelman et al. (2012) or Leuchter (2019).  
+[^1]: Genesis 1:1-2. (tr. Deus created the priciple of heaven implying earth. The 'idea' was implicit within the 'waters' but first earth was still a vacuum without content), s. Jiménez de Cisneros (1517, fol. ar), also c.f Foresti (1490, fol. a2r).  
+[^2]: wrote the first five books of the Bible, Old Testament, Law (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), c.f. Baker (2010), Edelman et al. (2012) or Leuchter (2019).  
 [^3]:  s. De Columnis & Mair (1510), Meister (1872), Haight (1947), Finley et al. (1964), Barnes (1981), Raaflaub (1998) or Cobet (2009).  
 [^4]:  or "[con][trarium]", s. Cappelli (1928, p. 60-61).  
 [^5]:  or "v[er]o", c.f. Cappelli (1928, p. 395).  
@@ -71,7 +71,7 @@ In reliquis ornatum Moyses per opera sex die[rum] ostendit.
 [^12]: or "v[a]l[ete]", c.f. Cappelli (1928, p. 392).  
 [^13]: 700(!), Septuaginta (LXX), c.f. Monasterii Wirimutham-Gyruum (716 AD).  
 [^14]: Ovidius (1515), Steiner, G. (1951).  
-[^15]: c.f Foresti (1490, fol. 2r), Ovidius (1515, fol. IIr).    
+[^15]: c.f Foresti (1490, fol. a2r), Ovidius (1515, fol. IIr).    
 
 ## References
 
@@ -82,6 +82,8 @@ Aristoteles. (1325). *Metaphysica et Physica utraque novae translationis*. Borgh
 Aristoteles, & Clichtoveus, J. (1510). *Commentariorum metaphysice introductio in metaphysicos libros Aristotelis: in hoc opere continentur totius philosophie naturalis paraphrases: adiectis ad litteras scholiis declarate & hoc ordine digeste; introductio in libros physicorum*... Parisiis: ex officina Henrici Stephani. https://doi.org/10.3931/e-rara-25809.
 
 Aristoteles, & Theophrastus. (1608). *Aristotelis Stagiritae Metaphysicorum libri XIIII. Theophrasti Metaphysicorum liber: quorum omnium recognitionem et additamentum versa pagina ostendit*. Genevae: apud Jacobum Stoer. https://doi.org/10.3931/e-rara-56887.
+
+Baker, R. G. (2010). “Review of the Five Books of Moses: A Translation with Commentary, by r. Alter.” *Brigham Young University Studies 49* (1): 180–83. http://www.jstor.org/stable/43044772.
 
 Barnes, W. R. (1981). The Trojan War in Valerius Flaccus’ Argonautica. *Hermes 109* (3): 360–70. http://www.jstor.org/stable/4476220.
 
@@ -119,6 +121,8 @@ Foresti, G. F. (1490). *Supplementum Chronicarum*. Novariensis: Bernardinus Rizu
 Haight, E. H. (1947). The Tale of Troy: An Early Romantic Approach. *The Classical Journal 42* (5): 261–69. http://www.jstor.org/stable/3292066.
 
 Inwood, B. (1981). The Origin of Epicurus’ Concept of Void. *Classical Philology 76* (4): 273–85. http://www.jstor.org/stable/270296.
+
+Jiménez de Cisneros, F. (1517). *Biblia Polyglotta Complutensis*. Complutum: Arnaldo Guillén de Brocar. https://doi.org/10.3931/e-rara-46695.
 
 Jowett, B. (1888). *The Republic of Plato*. 3rd ed. Oxford: At the Clarendon Press. https://archive.org/details/a604578400platuoft/.
 
