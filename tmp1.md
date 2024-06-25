@@ -4,7 +4,7 @@
 
 ## P 1
 
->***I**N principio creauit deus celum et terra[m]. Terra autem erat inanis [et] vacua. [et] tenebrae era[n]t sup[er] faciem abissi. et sp[irit]us d[omi]ni ferebat[ur] sup[er] aq[ui]s.*[^1]
+>***I**N principio creauit deus celum et terra[m]. Terra autem erat inanis [et] vacua. [et] tenebrae era[n]t sup[er] faciem abissi. et sp[irit]us d[omi]ni ferebat[ur] sup[er] aq[ua]s.*[^1]
 
 >***I**n dem anfang hat got beschaffen himel vn[d] erden aber die erde was eytel und lere vnd die finsternus ware[n] auf de[m] antlitz des abgru[n]ds vnd der gaist des herre[n] swebet oder ward getrage[n] ob den wassern.*[^1]
 
