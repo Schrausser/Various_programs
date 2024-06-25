@@ -1,6 +1,6 @@
 # Nuremberg Chronicle tables
 
-Tables (`nc_tab01.md`) from the *Nuremberg Chronicle*, fol. 1r to  VIr, s.  Tab. 1 (Schedel, 1493; Schedel & Alt, 1493, 1496, res.):
+Tables (`nc_tab01.md`) from the *Nuremberg Chronicle*, fol. 1r to  VIIr, s.  Tab. 1 (Schedel, 1493; Schedel & Alt, 1493, 1496, res.):
 
 >"Creatio re[rum] senario numero explicatur. Cuius partes, unu[m]: duo: tria sunt, que in trigonu[m] surga[n]t. In primo creatione[m]. In secundo [et] tercio dispositione[m]. In reliquis ornatum Moyses per opera sex die[rum] ostendit.", (Schedel, 1493, fol. IIr).
 
@@ -20,6 +20,8 @@ Foliu[m] IIII	recto	De opere quarte diei.
 Foliu[m] V	recto	De opere sexte diei.
 		verso	De sanctificatione septime diei
 Foliu[m] VI	recto	Queda[m] circa spera[m] planetaru[m] et orbiu[m] declara[n]da.
+		verso	
+Folium   VII	recto	
 ~~~
 
 >„ […] The Nuremberg Chronicle […] is one of the most important and most beautiful books of the incunabula era. Both the Latin version […] and the German version […] were printed in the offices of Anton Koberger who owned one of Europe's largest printing houses of the period. […] Following medieval traditions, the author divides the history of mankind into seven ages: the first age extended from the creation to the deluge; the second from the deluge to the birth of Abraham, the third to the kingdom of David; the fourth covered the period […] to the Babylonian Captivity; the fifth to the birth of Christ; the sixth […] from the birth of Christ to the present; and the seventh dealt with the arrival of the Antichrist and the Last Judgment.", (Bernstein, 2002, p. 1422; c.f. Tab. 2). 
