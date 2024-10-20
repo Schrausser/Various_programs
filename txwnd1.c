@@ -2,7 +2,7 @@
 //                                                                       | txwnd1.c, 
 //                                                                       | von Dietmar Schrausser, SCHRAUSSER 2009    //      
 
-#include "txwnd1.h" //--------------------------------------------------> hauptheader
+#include "txwnd2.h" //--------------------------------------------------> hauptheader
 
 main()
 {
