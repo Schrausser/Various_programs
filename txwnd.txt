@@ -1,0 +1,19 @@
+CAD Tastatur-Befehlsverzeichnis
+
+[Q] [W] [E] [H] Cursor .
+[A]  *  [D] [U] Cursorfixierung
+[Y] [S] [X] [J] Linienziehung
+
+[Z] [P]
+[F] [G] [K] [L]
+[C] [V] [B]
+[M] [O]
+
+[T] Textbefehl
+
+'1..' Nummern 1-9 und . zur direkten Cursorzeichenauswahl
+'abc' beliebiger String zur Titeldarstellung xy(1,1)
+'neu' löscht Titeldarstellung xy(1,1) 
+'end' beendet CAD
+
+CAD by Dietmar Schrausser, (c) SCHRAUSSER 2009 
