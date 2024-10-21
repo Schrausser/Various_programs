@@ -19,7 +19,7 @@ do i=1, n*2
 end do
 WRITE(7,*) lin
 write(7,*) index
-write(7,*) perm ,' zuf�llige Permutationen'
+write(7,*) perm ,' zufällige Permutationen'
 write(7,*) lin
 L1: do i=2, perm
  L2: do l=1, n2
