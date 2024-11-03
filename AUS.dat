@@ -1,0 +1,22 @@
+ Wilcoxon-Mann-Whitney test:  P-value = 0.8095
+ Pitman randomization test:  P-value = 1.0000
+ Student's t-statistic =  0.1538     with  8 d.f.  (P-value = 0.8816)
+
+ Wilcoxon-Mann-Whitney test:  P-value = 0.7706
+ Pitman randomization test:  P-value = 0.7706
+ Student's t-statistic = -0.4724     with  9 d.f.  (P-value = 0.6479)
+
+ Wilcoxon-Mann-Whitney test:  P-value = 1.0000
+ Pitman randomization test:  P-value = 1.0000
+ Student's t-statistic =   0.000     with  6 d.f.  (P-value = 1.0000)
+
+ Wilcoxon-Mann-Whitney test:  P-value = 0.1111
+ Student's t-statistic =  -2.352     with  7 d.f.  (P-value = 0.0510)
+
+ Sign test:  P-value = 0.0156
+ Wilcoxon signed-rank test:  P-value = 0.0156
+ Pitman randomization test:  P-value = 0.0156
+
+ Wilcoxon-Mann-Whitney test:  P-value = 0.2000
+ Pitman randomization test:  P-value = 0.2000
+ Student's t-statistic =  -6.600     with  3 d.f.  (P-value = 0.0071)
