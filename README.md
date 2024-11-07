@@ -12,9 +12,12 @@ Tools for simple calculations, bootstrapping and permutation tests, also for pra
 
 ### Utilities etc.:
 
-`CAD`, `CUT`, `DICE` (see Schrausser, 2023), `GAME`, `GRAPH`, `TXWND`
+`CAD`, `CUT`, `DICE` (see Schrausser, 2023a, b), `GAME`, `GRAPH`, `TXWND`
 
 ## References
+Schrausser, D. G. (2023a). Schrausser/DICEandro: DICE for Android (version v1.5.3). Zenodo. https://doi.org/10.5281/zenodo.7943339.
+
+———. (2023b). Schrausser/DICEwin: DICE for Windows (version v1.0.5). Zenodo. https://doi.org/10.5281/zenodo.7644967.
 
 
 [^1]:Documentation and original code copyright 1985 by Gerard E. Dallal. Reproduction of material for non-commercial purposes is permitted, without charge, provided that suitable reference is made to PC-PITMAN or STAT-SAK and its author.*  
