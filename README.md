@@ -30,4 +30,4 @@ Schrausser, D. G. (2023a). Schrausser/DICEandro: DICE for Android (version v1.
 
 Streib, J. T. (2020). *Guide to Assembly Language*. 2nd ed. Springer. https://doi.org/10.1007/978-3-030-35639-2.
 
-[^1]:Documentation and original code copyright 1985 by Gerard E. Dallal. Reproduction of material for non-commercial purposes is permitted, without charge, provided that suitable reference is made to PC-PITMAN or STAT-SAK and its author.*  
+[^1]:Documentation and original code copyright 1985 by Gerard E. Dallal. Reproduction of material for non-commercial purposes is permitted, without charge, provided that suitable reference is made to PC-PITMAN or STAT-SAK and its author. 
