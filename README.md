@@ -4,15 +4,15 @@ Tools for simple calculations, bootstrapping and permutation tests, also for pra
 
 ### Tools, also for practice purposes:
 
-`FAC`, `IINORMAL`, `LD`, `MC1`, `MCDAT`, `MCSPS`, `MO`, `PROBE`, `PSX`, `RAN`, `RECHTECK`, `RN`, `SHIFT`, `T`, `Z`, `ZP`, `CWNDW`, `TAGE`
+`FAC`, `IINORMAL`, `LD`, `MC1`, `MCDAT`, `MCSPS`, `MO`, `PROBE`, `PSX`, `RAN`, `RECHTECK`, `RN`, `SHIFT`, `T`, `Z`, `ZP`, `CWNDW`, `TAGE`.
 
 ### Bootstrapping, and permutation tests:
 
-`PITMAN`[^1], `STAT-SAK`[^1], `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4`
+`PITMAN`[^1], `STAT-SAK`[^1], `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4`.
 
 ### Utilities etc.:
 
-`CAD`, `CUT`, `DICE` (see Schrausser, 2023a, b), `GAME`, `GRAPH`, `TXWND`
+`CAD`, `CUT`, `DICE` (see Schrausser, 2023a, b), `GAME`, `GRAPH`, `TXWND`.
 
 ## References
 Schrausser, D. G. (2023a). Schrausser/DICEandro: DICE for Android (version v1.5.3). Zenodo. https://doi.org/10.5281/zenodo.7943339.
