@@ -4,11 +4,11 @@ Tools for simple calculations, bootstrapping and permutation tests, also for pra
 
 ### Tools, also for practice purposes:
 
-`FAC`, `IINORMAL`, `LD`, `MC1`, `MCDAT`, `MCSPS`, `MO`, `PROBE`, `PSX`, `RAN`, `RECHTECK`, `RN`, `SHIFT`, `T`, `Z`, `ZP`, `CWNDW`, `TAGE`.
+`FAC`, `IINORMAL`, `LD`, `MC1`, `MCDAT`, `MCSPS`, `MO`, `PROBE`, `PSX` (c.f. Schrausser, 2023c), `RAN`, `RECHTECK`, `RN`, `SHIFT`, `T`, `Z`, `ZP`, `CWNDW`, `TAGE`.
 
 ### Bootstrapping, and permutation tests:
 
-`PITMAN`[^1], `STAT-SAK`[^1], `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4`.
+`PITMAN`[^1], `STAT-SAK`[^1] (s. Dallal, 1986, 1988), `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4`.
 
 ### Utilities etc.:
 
@@ -18,15 +18,22 @@ Tools for simple calculations, bootstrapping and permutation tests, also for pra
 
 Chivers, I., & Sleightholme, J. (2018). *Introduction to Programming with Fortran*. 4th ed. Springer. https://doi.org/10.1007/978-3-319-75502-1.
 
+Dallal, G. E. (1986). STATOOLS: Statistical Utility Programs. *The American Statistician 40* (3): 236–36. http://www.jstor.org/stable/2684555.
+
+———. (1988). PITMAN: A FORTRAN Program for Exact Randomization Tests. *Computers and Biomedical Research 21* (1): 9–15. https://doi.org/https://doi.org/10.1016/0010-4809(88)90037-7.
+
 Gonzalez-Morris, G., & Horton, I. (2024). *Beginning C: From Beginner to Pro*. 7th ed. Berkeley, CA: Apress. https://doi.org/10.1007/979-8-8688-0149-5.
 
 Halvorson, M., & Rygmyr, D. (1991). *Arbeiten Mit MS-DOS QBasic*. 1st ed. Wiesbaden: Vieweg+Teubner Verlag. https://doi.org/10.1007/978-3-322-87224-1.
 
 Joyce, P. (2019). *Numerical C: Applied Computational Programming with Case Studies*. 1st ed. Berkeley, CA: Apress. https://doi.org/10.1007/978-1-4842-5064-8.
 
+
 Schrausser, D. G. (2023a). Schrausser/DICEandro: DICE for Android (version v1.5.3). Zenodo. https://doi.org/10.5281/zenodo.7943339.
 
 ———. (2023b). Schrausser/DICEwin: DICE for Windows (version v1.0.5). Zenodo. https://doi.org/10.5281/zenodo.7644967.
+
+———. (2023c). Schrausser/PCE500_MATH: Mathematical and statistical applications for SHARP PC-E500 (version v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7664088.
 
 Streib, J. T. (2020). *Guide to Assembly Language*. 2nd ed. Springer. https://doi.org/10.1007/978-3-030-35639-2.
 
