@@ -4,7 +4,7 @@ Tools for simple calculations, bootstrapping and permutation tests, also for pra
 
 ### Tools, also for practice purposes:
 
-`FAC`, `IINORMAL`, `LD`, `MC1`, `MCDAT`, `MCSPS`, `MO`, `PROBE`, `PSX` (c.f. Schrausser, 2023c), `RAN`, `RECHTECK`, `RN`, `SHIFT`, `T`, `Z`, `ZP`, `CWNDW`, `TAGE`.
+`FAC`, `IINORMAL`, `LD`, `MC1`, `MCDAT`, `MCSPS`, `MO`, `PROBE`, `PSX` (c.f. Schrausser, 2023a), `RAN`, `RECHTECK`, `RN`, `SHIFT`, `T`, `Z`, `ZP`, `CWNDW`, `TAGE`.
 
 ### Bootstrapping, and permutation tests:
 
@@ -12,7 +12,7 @@ Tools for simple calculations, bootstrapping and permutation tests, also for pra
 
 ### Utilities etc.:
 
-`CAD`, `CUT`, `DICE` (see Schrausser, 2023a, b), `GAME`, `GRAPH`, `TXWND`.
+`CAD`, `CUT`, `DICE` (see Schrausser, 2023b, c), `GAME`, `GRAPH`, `TXWND`.
 
 ## References
 
@@ -28,12 +28,11 @@ Halvorson, M., & Rygmyr, D. (1991). *Arbeiten Mit MS-DOS QBasic*. 1st ed. Wiesb
 
 Joyce, P. (2019). *Numerical C: Applied Computational Programming with Case Studies*. 1st ed. Berkeley, CA: Apress. https://doi.org/10.1007/978-1-4842-5064-8.
 
+Schrausser, D. G. (2023a). Schrausser/PCE500_MATH: Mathematical and statistical applications for SHARP PC-E500 (version v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7664088.
 
-Schrausser, D. G. (2023a). Schrausser/DICEandro: DICE for Android (version v1.5.3). Zenodo. https://doi.org/10.5281/zenodo.7943339.
+———. (2023b). Schrausser/DICEandro: DICE for Android (version v1.5.3). Zenodo. https://doi.org/10.5281/zenodo.7943339.
 
-———. (2023b). Schrausser/DICEwin: DICE for Windows (version v1.0.5). Zenodo. https://doi.org/10.5281/zenodo.7644967.
-
-———. (2023c). Schrausser/PCE500_MATH: Mathematical and statistical applications for SHARP PC-E500 (version v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7664088.
+———. (2023c). Schrausser/DICEwin: DICE for Windows (version v1.0.5). Zenodo. https://doi.org/10.5281/zenodo.7644967.
 
 Streib, J. T. (2020). *Guide to Assembly Language*. 2nd ed. Springer. https://doi.org/10.1007/978-3-030-35639-2.
 
