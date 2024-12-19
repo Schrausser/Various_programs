@@ -11,7 +11,7 @@ Tools for simple calculations, bootstrapping and permutation tests, also for pra
 
 ### Bootstrapping, and permutation tests:
 
-`PITMAN`[^1], `STAT-SAK`[^1] (s. Dallal, 1986, 1988), `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4`.
+`PITMAN`[^1], `STAT-SAK`[^1] (s. Dallal, 1986, 1988), `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4`, `rndn`.
 
 ### Utilities etc.:
 
