@@ -15,7 +15,7 @@ Tools for simple calculations, bootstrapping and permutation tests, also for pra
 
 ### Utilities etc.:
 
-`CAD`, `CUT`, `DICE` (see Schrausser, 2023b, c), `GAME`, `GRAPH`, `TXWND`, `GR_0041`, `rotation_004`, `rndn`, `rnd2`.
+`CAD`, `CUT`, `DICE` (see Schrausser, 2023b, c), `GAME`, `GRAPH`, `TXWND`, `GR_0041`, `rotation_004`, `rndn`, `rnd2`  `GSW`.
 
 ## References
 
