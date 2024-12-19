@@ -6,6 +6,9 @@ Tools for simple calculations, bootstrapping and permutation tests, also for pra
 
 `FAC`, `IINORMAL`, `LD`, `MC1`, `MCDAT`, `MCSPS`, `MO`, `PROBE`, `PSX` (c.f. Schrausser, 2023a), `RAN`, `RECHTECK`, `RN`, `SHIFT`, `T`, `Z`, `ZP`, `CWNDW`, `TAGE`.
 
+### Mathematics:
+`Potenzen`
+
 ### Bootstrapping, and permutation tests:
 
 `PITMAN`[^1], `STAT-SAK`[^1] (s. Dallal, 1986, 1988), `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4`.
