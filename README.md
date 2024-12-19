@@ -7,7 +7,7 @@ Tools for simple calculations, bootstrapping and permutation tests, also for pra
 `FAC`, `IINORMAL`, `LD`, `MC1`, `MCDAT`, `MCSPS`, `MO`, `PROBE`, `PSX` (c.f. Schrausser, 2023a), `RAN`, `RECHTECK`, `RN`, `SHIFT`, `T`, `Z`, `ZP`, `CWNDW`, `TAGE`.
 
 ### Mathematics:
-`Potenzen`
+`Potenzen`, `decconv`, `Nl`, `winkel`.
 
 ### Bootstrapping, and permutation tests:
 
