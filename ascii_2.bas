@@ -1,0 +1,42 @@
+INCLUDE strg.txt
+
+GR.OPEN 255,30,80,30,0,1
+GR.SCREEN sx,sy
+GR.COLOR 255,30,255,30,1
+
+sw=2
+ch=1
+m1:
+GR.CLS
+
+IF sw=1 THEN INPUT "CHR$ …",ch,69
+
+GR.TEXT.SIZE 300
+GR.TEXT.BOLD 1
+GR.TEXT.ALIGN 2
+GR.TEXT.DRAW tx,sx/2,sy*2/3,CHR$(ch)
+GR.TEXT.BOLD 0
+GR.TEXT.SIZE 15
+GR.TEXT.ALIGN 1
+GR.TEXT.DRAW tx,2,16,"CHR$("+INT$(ch)+")"
+GR.RENDER
+
+IF sw=2
+ ch=ch+1
+ GR.TOUCH tcx,x,y
+ IF tcx THEN sw=1
+ GOTO m1
+ENDIF
+
+DO
+ GR.TOUCH tc,x,y
+ GR.TOUCH2 tc2,x,y
+UNTIL tc
+
+IF tc THEN sw=1
+IF tc&tc2 THEN sw=2
+
+GOTO m1
+ONBACKKEY:
+PRINT"ASCII Screen "+_cr$+" 2017 by Dietmar Schrausser"
+END
