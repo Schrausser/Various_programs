@@ -4,7 +4,7 @@ Tools for simple calculations, bootstrapping and permutation tests, also for pra
 
 ### Tools, also for practice purposes:
 
-`FAC`, `IINORMAL`, `LD`, `MC1`, `MCDAT`, `MCSPS`, `MO`, `PROBE`, `PSX` (c.f. Schrausser, 2023a), `RAN`, `RECHTECK`, `RN`, `SHIFT`, `T`, `Z`, `ZP`, `CWNDW`, `TAGE`.
+`FAC`, `IINORMAL`, `LD`, `MC1`, `MCDAT`, `MCSPS`, `MO`, `PROBE`, `PSX` (c.f. Schrausser, 2023a), `RAN`, `RECHTECK`, `RN`, `SHIFT`, `T`, `Z`, `ZP`, `CWNDW`, `TAGE`, `ascii_1`, `asciicode`, `asciicode_1`.
 
 ### Mathematics:
 `Potenzen`, `decconv`, `Nl`, `winkel`, `fx_euler`, `sinus_sum`, `kugeloberflaeche`, `kugelraum_1`, `kugelvolumen_n1`, `tetra1`, `tetra_alg1`, `tetra_alg2`, `tetra_h`, `tetra_h1`, `tetra_o`, `tetra_s`, `tetrah`, `tetrah1`, `tetrao`, `tetrao1`, `tetrav`, `tetrav1`, `z00`, `z001`.
