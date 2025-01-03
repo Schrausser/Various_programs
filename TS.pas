@@ -1,5 +1,5 @@
-(*Das Programm TS.EXE greift auf p-Wert-Dateien zu und zählt die p-Werte, die kleiner als ein bestimmter α-Wert sind. Damit wird die Teststärke für bestimmte Design-Zellen bezüglich eines bestimmten α-Fehler-Niveaus ermittelt. Das Programm ist so angelegt, daß in einem Durchlauf alle 20 Design-Zellen einer Design-Zeile bearbeitet werden können. Es resultiert eine Datei, in der für die entsprechenden 20 Design-Zellen die Teststärkenwerte für α=0.05/0.1/0.2 sowie die Teststärkenwerte, die sich für 2 Gruppen von je 500 p-Werten ergeben, gespeichert sind.
-The program TS.EXE accesses p-value files and counts p-values ​​that are smaller than a certain α-value. This determines the power for certain design cells with respect to a certain α-error level. The program is designed so that all 20 design cells of a design line can be processed in one run. The result is a file in which power values ​​for α=0.05/0.1/0.2 and power values ​​resulting for 2 groups of 500 p-values ​​each are stored for the corresponding 20 design cells.*)
+{Das Programm TS.EXE greift auf p-Wert-Dateien zu und zählt die p-Werte, die kleiner als ein bestimmter α-Wert sind. Damit wird die Teststärke für bestimmte Design-Zellen bezüglich eines bestimmten α-Fehler-Niveaus ermittelt. Das Programm ist so angelegt, daß in einem Durchlauf alle 20 Design-Zellen einer Design-Zeile bearbeitet werden können. Es resultiert eine Datei, in der für die entsprechenden 20 Design-Zellen die Teststärkenwerte für α=0.05/0.1/0.2 sowie die Teststärkenwerte, die sich für 2 Gruppen von je 500 p-Werten ergeben, gespeichert sind.
+The program TS.EXE accesses p-value files and counts p-values ​​that are smaller than a certain α-value. This determines the power for certain design cells with respect to a certain α-error level. The program is designed so that all 20 design cells of a design line can be processed in one run. The result is a file in which power values ​​for α=0.05/0.1/0.2 and power values ​​resulting for 2 groups of 500 p-values ​​each are stored for the corresponding 20 design cells.}
 
 program ts; 
 uses crt; 
@@ -53,7 +53,8 @@ kv20z2:=0;
 anzahl:=0;      
 for K:=1 to 1000 do                
 begin        
-kreuzval [K] :=0;  (* aufbau eines feldes, 500 x 0, 500 x 1 *)         
+kreuzval [K] :=0;  
+{aufbau eines feldes, 500 x 0, 500 x 1 *}        
 end;      
 J:=0;                  
 repeat          
@@ -77,7 +78,8 @@ if p1>1000 then stark10e := stark10e + 1;
 if p1>2000 then stark20e := stark20e + 1;          
 if p2>500 then stark05z := stark05z + 1;         
 if p2>1000 then stark10z := stark10z + 1;         
-if p2>2000 then stark20z := stark20z + 1;  (* für Kreuzvalidierung: *)         
+if p2>2000 then stark20z := stark20z + 1;  
+{ für Kreuzvalidierung: }         
 if kreuzval [J] = 0 then                             
 begin            
 if p1>500 then kv05e1 := kv05e1 + 1;            
