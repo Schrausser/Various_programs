@@ -1,13 +1,13 @@
 REM // Kugel bei d(K)=2
 REM // Raum Integral ∫∫∫f(xyz)dxdydz
-REM // von Dietmar Schrausser © 2017/2024
+REM // von Dietmar Schrausser © 2017/2025
 
 INCLUDE strg.txt
 CONSOLE.TITLE" Kugel Raum Integral "+j$+j$+j$
 
 REM ////////////////
 pi= PI()
-d= 1/50
+d= 1/200
 REM ////////////////
 z1=0:z0=0
 
@@ -32,18 +32,19 @@ FOR x=-1 TO 1+d STEP d
  PRINT "      ";FORMAT$("%.####",x);_lf$+"V(K) = "+j$+j$+j$+"f(xyz)dxdydz ="; z0$;_lf$+"      - 1"
 NEXT x
 
-PAUSE 50
+PAUSE 200
+CLS
 
 PRINT "d: 1/" ;1/d
-PRINT "      ";FORMAT$("%.####",x);_lf$+"V(K) = "+j$+j$+j$+"f(xyz)dxdydz ="; z0$;_lf$+"      - 1"
+PRINT "        1";_lf$+"V(K) = "+j$+j$+j$+"f(xyz)dxdydz ="; z0$;_lf$+"      - 1"
 
 PRINT "wobei"
 PRINT j$+j$+j$+"dxdydz = "+jj$+v$+"(1-x"+h2$+"-y"+h2$+") - "+jj$+"-"+v$+"(1-x"+h2$+"-y"+h2$+")"
 vk=4/3*pi
-PRINT "           4"+_lf$+"mit V(K) = "+ms$+ms$+" = " ;vk;_lf$+"           3"+pi$
+PRINT "           4"+pi$+_lf$+"mit V(K) = "+ms$+ms$+" = " ;vk;_lf$+"           3"
 PRINT "bei d(K) = 2 und O(K) = 4"pi$
 PRINT""
 CONSOLE.SAVE "rIII_k_d1.txt"
 ONBACKKEY:
-PRINT "Kugel Raum Integral "+j$+j$+j$+_lf$+_cr$+" 2024 by Dietmar Schrausser"
-END 
+PRINT "Kugel Raum Integral "+j$+j$+j$+_lf$+_cr$+" 2025 by Dietmar Schrausser"
+END
