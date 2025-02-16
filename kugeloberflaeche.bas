@@ -2,8 +2,7 @@ REM // Kugel Oberflaechen Integral
 REM //     ∫∮∫f(xyz)dxdydz=π
 REM // 
 REM // von Dietmar Schrausser 
-REM //     © 2016/2018/2024
-
+REM //     © 2016/2018/2025
 INCLUDE strg.txt
 
 CONSOLE.TITLE"Kugel Oberflächen Integral "+j$+f$+j$ 
@@ -22,8 +21,8 @@ sw=0
 
 GOSUB inf
 
-FOR x=-0.25 TO 1.3 STEP 1/d
- FOR y=-0.25 TO 1.3 STEP 1/d
+FOR x=-0.2 TO 1.3+c STEP 1/d
+ FOR y=-0.2 TO 1.3+c STEP 1/d
   a=(x-x^2+y-y^2)
   IF a>0 THEN a=a^0.5
   b=(x-x^2+(y+c1)-(y+c1)^2) 
@@ -47,7 +46,7 @@ FOR x=-0.25 TO 1.3 STEP 1/d
  GOSUB inf
 NEXT x  
 
-PAUSE 50
+PAUSE 200
 GOSUB inf
 
 PRINT "wobei"
@@ -55,7 +54,7 @@ PRINT j$+f$+j$+"dxdydz = 2 "+f$+f$+v$+"(x-x"+h2$+"+y-y"+h2$+")"
 
 ONBACKKEY:
 PRINT
-PRINT "Kugel Oberflächen Integral " +j$+f$+j$+" zu "+pi$_lf$+_cr$+" 2024 by Dietmar Schrausser" 
+PRINT "Kugel Oberflächen Integral " +j$+f$+j$+" zu "+pi$_lf$+_cr$+" 2025 by Dietmar Schrausser" 
 END
 
 inf:
@@ -65,7 +64,7 @@ IF d=(1/((6362/2025)-PI()))^(1/2)
 ELSE 
  PRINT "d: 1/"d
 ENDIF
-PRINT "   ";FORMAT$("%.####",x);_lf$+pi$+" = "+j$+f$+j$"f(xyz)dxdydz = "; 2*z1;_lf$+"   - 0.25"
+PRINT "   1+"+v$+"0.5-0.5";_lf$+pi$+" = "+j$+f$+j$"f(xyz)dxdydz = "; 2*z1;_lf$+"   1-"+v$+"0.5-0.5"
 RETURN
 
 %% END
