@@ -9,6 +9,8 @@ Tools for *calculations*, *bootstrapping* and *permutation tests*, also for *pra
 ### Mathematics:
 `Potenzen`, `decconv`, `Nl`, `winkel`, `fx_euler`, `sinus_sum`, `kugeloberflaeche`, `kugelraum_1`, `kugelvolumen`, `kugelvolumen_n1`, `kugelvolumen_n2`, `tetra1`, `tetra_alg1`, `tetra_alg2`, `tetra_h`, `tetra_h1`, `tetra_o`, `tetra_s`, `tetrah`, `tetrah1`, `tetrao`, `tetrao1`, `tetrav`, `tetrav1`, `z00`, `z001`.
 
+![figure.\label{mov1}](mov1.gif)
+
 ### Bootstrapping and permutation tests:
 
 `PITMAN` [^1], `STAT-SAK` [^1] (s. Dallal, [1986](http://www.jstor.org/stable/2684555), [1988](https://doi.org/https://doi.org/10.1016/0010-4809(88)90037-7)), `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4`.
