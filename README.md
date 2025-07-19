@@ -19,6 +19,8 @@ Tools for *calculations*, *bootstrapping* and *permutation tests*, also for *pra
 
 `CAD`, `CUT`, `DICE` (see Schrausser, [2023b](https://doi.org/10.5281/zenodo.7943339), [c](https://doi.org/10.5281/zenodo.7644967)), `GAME`, `GRAPH`, `TXWND`, `GR_0041`, `rotation_004`, `rndn`, `rnd2`, `GSW`, `Graph`, `Mondphasen_021c`, `Mondrotation_01`, `colorscreen`.
 
+![figure.\label{mov2}](mov2.gif)
+
 ## References
 
 Chivers, I., & Sleightholme, J. (2018). *Introduction to Programming with Fortran*. 4th ed. Springer. [https://doi.org/10.1007/978-3-319-75502-1](https://doi.org/10.1007/978-3-319-75502-1)
