@@ -1,6 +1,6 @@
 !!
-           Erde-Mond Rotation 
-      © 2020 by Dietmar Schrausser
+            Erde-Mond Rotation 
+      © 2020-25 by Dietmar Schrausser
 
 !!
 
@@ -80,6 +80,7 @@ MOND
  IF grsw < 0.7
   GR.COLOR 100,155,155,155,1
  ENDIF
+ grsw=1
  GR.ROTATE.START -180-i,mx,my       %27.2t Rotation
  GR.CIRCLE cl,mx-ed*384,my,gr       %Mond
  GR.COLOR 100, 100, 100, 100, 0
