@@ -21,6 +21,8 @@ Tools for *calculations*, *bootstrapping* and *permutation tests*, also for *pra
 
 ![figure.\label{mov2}](mov2.gif)
 
+![figure.\label{mov3}](mov3.gif)
+
 ## References
 
 Chivers, I., & Sleightholme, J. (2018). *Introduction to Programming with Fortran*. 4th ed. Springer. [https://doi.org/10.1007/978-3-319-75502-1](https://doi.org/10.1007/978-3-319-75502-1)
