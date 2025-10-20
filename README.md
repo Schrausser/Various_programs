@@ -1,6 +1,6 @@
 # Various programs
 
-Tools for *calculations*, *bootstrapping* and *permutation tests*, also for *practice* purposes when learning programming languages ​​(C, Basic, Fortran etc.), see e.g. Halvorson & Rygmyr ([1991](https://doi.org/10.1007/978-3-322-87224-1)), Chivers & Sleightholme ([2018](https://doi.org/10.1007/978-3-319-75502-1)), Joyce ([2019](https://doi.org/10.1007/978-1-4842-5064-8)), Streib ([2020](https://doi.org/10.1007/978-3-030-35639-2)) or Gonzalez-Morris & Horton ([2024](https://doi.org/10.1007/979-8-8688-0149-5)):
+Tools for *calculations*, *bootstrapping* and *permutation tests*, also for *practice* purposes when learning programming languages ​​(C, Basic, Fortran etc.), see e.g. Halvorson and Rygmyr ([1991](https://doi.org/10.1007/978-3-322-87224-1)), Chivers and Sleightholme ([2018](https://doi.org/10.1007/978-3-319-75502-1)), Joyce ([2019](https://doi.org/10.1007/978-1-4842-5064-8)), Streib ([2020](https://doi.org/10.1007/978-3-030-35639-2)) or Gonzalez-Morris and Horton ([2024](https://doi.org/10.1007/979-8-8688-0149-5)):
 
 ### Tools, also for practice purposes:
 
