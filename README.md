@@ -13,7 +13,7 @@ Tools for *calculations*, *bootstrapping* and *permutation tests*, also for *pra
 
 ### Bootstrapping and permutation tests:
 
-`PITMAN` [^1], `STAT-SAK` [^1] (s. Dallal, [1986](http://www.jstor.org/stable/2684555), [1988](https://doi.org/https://doi.org/10.1016/0010-4809(88)90037-7)), `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4`.
+`PITMAN` [^1], `STAT-SAK` [^1] (s. Dallal, [1986](http://www.jstor.org/stable/2684555), [1988](https://doi.org/https://doi.org/10.1016/0010-4809(88)90037-7)), `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4` (c.f. Schrausser, [2025a](https://doi.org/10.31235/osf.io/vs8a6_v1), [b](https://doi.org/10.5281/zenodo.15713317), res.).
 
 ### Utilities etc.:
 
@@ -42,6 +42,10 @@ Schrausser, D. G. (2023a). Schrausser/PCE500_MATH: Mathematical and statistical
 ———. (2023b). Schrausser/DICEandro: DICE for Android (version v1.5.3). Zenodo. [https://doi.org/10.5281/zenodo.7943339](https://doi.org/10.5281/zenodo.7943339)
 
 ———. (2023c). Schrausser/DICEwin: DICE for Windows (version v1.0.5). Zenodo. [https://doi.org/10.5281/zenodo.7644967](https://doi.org/10.5281/zenodo.7644967)
+
+———. (2025a). Mathematical and Statistical Applications for HP Prime. *SocArXiv Papers, August*, 1–15. [https://doi.org/10.31235/osf.io/vs8a6_v1](https://doi.org/10.31235/osf.io/vs8a6_v1)
+
+———. (2025b). *HP_prime_MATH: Manual*. 1st ed. [https://doi.org/10.5281/zenodo.15713317](https://doi.org/10.5281/zenodo.15713317)
 
 Streib, J. T. (2020). *Guide to Assembly Language*. 2nd ed. Springer. [https://doi.org/10.1007/978-3-030-35639-2](https://doi.org/10.1007/978-3-030-35639-2)
 
