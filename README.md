@@ -13,7 +13,7 @@ Tools for *calculations*, *bootstrapping* and *permutation tests*, also for *pra
 
 ### Bootstrapping and permutation tests:
 
-`PITMAN` [^1], `STAT-SAK` [^1] (s. Dallal, [1986](http://www.jstor.org/stable/2684555), [1988](https://doi.org/https://doi.org/10.1016/0010-4809(88)90037-7)), `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4` (c.f. Schrausser, [2025a](https://doi.org/10.31235/osf.io/vs8a6_v1), [b](https://doi.org/10.5281/zenodo.15713317), res.).
+`PITMAN` [^1], `STAT-SAK` [^1] (s. Dallal, [1986](http://www.jstor.org/stable/2684555), [1988](https://doi.org/10.1016/0010-4809(88)90037-7)), `BOOTSTRA`, `GROUPFUN`, `KSBLKS`, `KSMIN`, `RANDPERM`, `RPM`, `PERMT4` (c.f. Schrausser, [2025a](https://doi.org/10.31235/osf.io/vs8a6_v1), [b](https://doi.org/10.5281/zenodo.15713317), res.).
 
 ### Utilities etc.:
 
@@ -29,7 +29,7 @@ Chivers, I., & Sleightholme, J. (2018). *Introduction to Programming with Fortr
 
 Dallal, G. E. (1986). STATOOLS: Statistical Utility Programs. *The American Statistician, 40*(3), 236–36. [http://www.jstor.org/stable/2684555](http://www.jstor.org/stable/2684555)
 
-———. (1988). PITMAN: A FORTRAN Program for Exact Randomization Tests. *Computers and Biomedical Research, 21*(1), 9–15. [https://doi.org/https://doi.org/10.1016/0010-4809(88)90037-7](https://doi.org/https://doi.org/10.1016/0010-4809(88)90037-7)
+———. (1988). PITMAN: A FORTRAN Program for Exact Randomization Tests. *Computers and Biomedical Research, 21*(1), 9–15. [https://doi.org/10.1016/0010-4809(88)90037-7](https://doi.org/10.1016/0010-4809(88)90037-7)
 
 Gonzalez-Morris, G., & Horton, I. (2024). *Beginning C: From Beginner to Pro*. 7th ed. Berkeley, CA: Apress. [https://doi.org/10.1007/979-8-8688-0149-5](https://doi.org/10.1007/979-8-8688-0149-5)
 
