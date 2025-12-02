@@ -45,7 +45,7 @@ Schrausser, D. G. (2023a). Schrausser/PCE500_MATH: Mathematical and statistical
 
 ———. (2025a). Mathematical and Statistical Applications for HP Prime. *SocArXiv Papers, August*, 1–15. [https://doi.org/10.31235/osf.io/vs8a6_v1](https://doi.org/10.31235/osf.io/vs8a6_v1)
 
-———. (2025b). *HP_prime_MATH: Manual*. 1st ed. [https://doi.org/10.5281/zenodo.15713317](https://doi.org/10.5281/zenodo.15713317)
+———. (2025b). *HP_Prime_MATH: Manual*. 1st ed. [https://doi.org/10.5281/zenodo.15713317](https://doi.org/10.5281/zenodo.15713317)
 
 Streib, J. T. (2020). *Guide to Assembly Language*. 2nd ed. Springer. [https://doi.org/10.1007/978-3-030-35639-2](https://doi.org/10.1007/978-3-030-35639-2)
 
